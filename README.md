@@ -254,3 +254,4 @@ This is sort of a catch-all category for games that don't neatly fit anywhere el
 * (2021) [Airport CEO](https://store.steampowered.com/app/673610/Airport_CEO/) ☁️
 * (2019) [PC Building Simulator](https://store.steampowered.com/app/621060) ☁️
 * (2001) [Car Mechanic Simulator 2021](https://store.steampowered.com/app/1190000) ❤️ ☁️
+* (2006) [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/) ❤️
